@@ -6,8 +6,6 @@ description = 'Car rental service.'
 tags = ['python', 'docker', 'django']
 +++
 
-# Car rent service
-
 The application is a prototype of a service that allows to book cars from a rental company. The user is able to browse available vehicles along with detailed data such as rental price, fuel consumption, allowed number of passengers, etc. To register a new account, user has to fill out the form below.
 
 ![Local Image](/cars.png)
