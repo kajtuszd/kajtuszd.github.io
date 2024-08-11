@@ -2,3 +2,24 @@ baseURL = 'localhost:1313'
 languageCode = 'en-us'
 title = 'Kajetan Zdanowicz'
 theme = 'hugo-ficurinia'
+
+[menu]
+    [[menu.icons]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/kajtuszd"
+        weight = 10
+    [[menu.icons]]
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/kajetan-zdanowicz/"
+        weight = 20
+    [[menu.icons]]
+        identifier = "email"
+        name = "Mail"
+        url = "mailto:kajetanzdanowicz@icloud.com"
+        weight = 30
+
+[params]
+    buttonTags = true
+    imageInArticlePreview = true  # show images in article preview; default false
