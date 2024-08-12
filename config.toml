@@ -1,4 +1,4 @@
-baseURL = 'localhost:1313'
+baseURL = 'https://kajtuszd.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'Kajetan Zdanowicz'
 theme = 'hugo-ficurinia'
