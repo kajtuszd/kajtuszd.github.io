@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Java on Kajetan Zdanowicz</title>
+    <link>https://kajtuszd.github.io/tags/java/</link>
+    <description>Recent content in Java on Kajetan Zdanowicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="https://kajtuszd.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" /><icon>https://kajtuszd.github.io/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>Pacman GUI Game 🕹️</title>
+      <link>https://kajtuszd.github.io/posts/pacman/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>https://kajtuszd.github.io/posts/pacman/</guid>
+      <description><![CDATA[<h1 id="-repository">🚀 Repository</h1>
+<p>🔗 <strong>Check out the source code on <a href="https://github.com/kajtuszd/Pacman">GitHub</a></strong>.</p>
+<h2 id="description">Description</h2>
+<p>This is a graphical user interface (GUI) implementation of the classic Pacman game developed in Java. Enjoy the nostalgic gameplay with modern visuals and controls. Navigate Pacman through the maze, eat dots, avoid ghosts, and achieve the highest score!</p>
+<h2 id="features">Features</h2>
+<ul>
+<li><strong>Classic Pacman Gameplay</strong>: Navigate Pacman through the maze, eating dots and avoiding ghosts.</li>
+<li><strong>GUI Implementation</strong>: Fully graphical user interface built with Java Swing for an engaging experience.</li>
+<li><strong>Score Tracking</strong>: Keep track of your score and aim to beat your high score.</li>
+<li><strong>Ghost algorithm</strong>: Dynamic ghost behavior that challenges your strategy and reflexes.</li>
+</ul>
+]]></description>
+      
+        <media:thumbnail url="https://kajtuszd.github.io/img/pacman.gif" />
+      
+    </item>
+    
+    
+  </channel>
+</rss>

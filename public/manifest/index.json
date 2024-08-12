@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Kajetan Zdanowicz",
+  "short_name": "Kajetan Zdanowicz",
+  "start_url": "/",
+  "display": "standalone",
+  
+  
+  
+  "background_color": "#242629",
+  "theme_color": "#42f5c8"
+  
+  
+}
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Python on Kajetan Zdanowicz</title>
+    <link>https://kajtuszd.github.io/tags/python/</link>
+    <description>Recent content in Python on Kajetan Zdanowicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="https://kajtuszd.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" /><icon>https://kajtuszd.github.io/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>Car service predictor ⚙️</title>
+      <link>https://kajtuszd.github.io/posts/car-service-predictor/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>https://kajtuszd.github.io/posts/car-service-predictor/</guid>
+      <description><![CDATA[<h1 id="-repository">🚀 Repository</h1>
+<p>🔗 <strong>Check out the source code on <a href="https://github.com/kajtuszd/car-service-predictor">GitHub</a></strong>.</p>
+<h2 id="description">Description</h2>
+<p>Car Service Predictor is a maintenance system designed to forecast car servicing needs. The application leverages historical data to predict potential issues and service requirements, helping car owners and service centers stay ahead of maintenance needs.</p>
+<h2 id="features">Features</h2>
+<ul>
+<li><strong>Predictive Maintenance</strong>: Forecast for a car servicing based on historical data.</li>
+<li><strong>User Interface</strong>: Simple and intuitive interface for interacting with the prediction system.</li>
+<li><strong>Workshop Setup</strong>: Allows service providers to set up and manage their workshops.</li>
+<li><strong>Appointment Scheduling</strong>: Car owners can easily book service appointments with available workshops.</li>
+<li><strong>User-Friendly Interface</strong>: Intuitive and simple interface for both workshop managers and car owners.</li>
+</ul>
+]]></description>
+      
+        <media:thumbnail url="https://kajtuszd.github.io/img/csp.png" />
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Chessboard Importer ♟️</title>
+      <link>https://kajtuszd.github.io/posts/chessboard-importer/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>https://kajtuszd.github.io/posts/chessboard-importer/</guid>
+      <description><![CDATA[<h1 id="-repository">🚀 Repository</h1>
+<p>🔗 <strong>Check out the source code on <a href="https://github.com/kajtuszd/chessboard-importer">GitHub</a></strong>.</p>
+<h1 id="-chessboard-importer-backend-">♟︎ ChessBoard Importer Backend ♟︎</h1>
+<p>Backend was written in FastAPI framework used to recognize images taken with a mobile application. The machine learning models for the recognition pieces of chess were written using Keras and OpenCV libraries. The frontend of the application was written in Kotlin as a mobile application. To read more about the frontend part of the project visit the <a href="https://gitlab.com/kpz-2021-chessboard-importer-team/chessboard-importer-mobile">frontend application repository</a>. For more information visit the <a href="https://gitlab.com/kpz-2021-chessboard-importer-team/chessboard-importer-backend/-/wikis/home">wiki page</a>.</p>
+<hr>
+<h2 id="short-demo">Short Demo</h2>
+<p><img src="/img/demo.gif" alt="Short Demo"></p>
+<h2 id="application-demo---youtube">Application Demo - Youtube</h2>
+<p><a href="https://www.youtube.com/watch?v=HXiuUF98saY"><img src="https://i.imgur.com/Le2E452.png" alt="Application Demo"></a></p>
+<h2 id="authors">Authors</h2>
+<ul>
+<li>Piotr Kowalski - Team leader</li>
+<li>Piotr Bednarek - Machine learning</li>
+<li>Kajetan Zdanowicz - DevOps</li>
+<li>Adam Bednorz - API, improving chess recognition</li>
+<li>Marcin Gruchała - Mobile application</li>
+</ul>
+]]></description>
+      
+        <media:thumbnail url="https://kajtuszd.github.io/img/chessboard-importer.png" />
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Snake game 🐍</title>
+      <link>https://kajtuszd.github.io/posts/snake-game/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>https://kajtuszd.github.io/posts/snake-game/</guid>
+      <description><![CDATA[<h1 id="-repository">🚀 Repository</h1>
+<p>🔗 <strong>Check out the source code on <a href="https://github.com/kajtuszd/snake-game">GitHub</a></strong>.</p>
+<h2 id="description">Description</h2>
+<p>This is a classic Snake game built using Python and the Pygame library. The game includes various features such as a main menu, gameplay, a leaderboard, and customizable settings.</p>
+<h2 id="features">Features</h2>
+<ul>
+<li><strong>Classic Snake Gameplay</strong>: Control the snake, collect apples, and grow in length while avoiding collisions with walls and yourself.</li>
+<li><strong>Main Menu</strong>: Easy navigation through the start page, settings, and leaderboard.</li>
+<li><strong>Leaderboard</strong>: Track your high scores and compare them with others.</li>
+<li><strong>Customizable Settings</strong>: Change the color of the snake to suit your preference.</li>
+<li><strong>Pause Functionality</strong>: Pause the game anytime during play.</li>
+</ul>
+]]></description>
+      
+        <media:thumbnail url="https://kajtuszd.github.io/img/sc.png" />
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Car rent service 🚗</title>
+      <link>https://kajtuszd.github.io/posts/car-rent-forms/</link>
+      <pubDate>Sat, 13 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>https://kajtuszd.github.io/posts/car-rent-forms/</guid>
+      <description><![CDATA[<h1 id="-repository">🚀 Repository</h1>
+<p>🔗 <strong>Check out the source code on <a href="https://github.com/kajtuszd/car-rent-backend">GitHub</a></strong>.</p>
+<h2 id="description">Description</h2>
+<p>The application is a prototype of a service that allows to book cars from a rental company. The user is able to browse available vehicles along with detailed data such as rental price, fuel consumption, allowed number of passengers, etc.</p>
+]]></description>
+      
+        <media:thumbnail url="https://kajtuszd.github.io/img/cars.png" />
+      
+    </item>
+    
+    
+  </channel>
+</rss>

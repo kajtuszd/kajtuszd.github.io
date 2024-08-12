@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Vue.js on Kajetan Zdanowicz</title>
+    <link>https://kajtuszd.github.io/tags/vue.js/</link>
+    <description>Recent content in Vue.js on Kajetan Zdanowicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="https://kajtuszd.github.io/tags/vue.js/index.xml" rel="self" type="application/rss+xml" /><icon>https://kajtuszd.github.io/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>Car service predictor ⚙️</title>
+      <link>https://kajtuszd.github.io/posts/car-service-predictor/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>https://kajtuszd.github.io/posts/car-service-predictor/</guid>
+      <description><![CDATA[<h1 id="-repository">🚀 Repository</h1>
+<p>🔗 <strong>Check out the source code on <a href="https://github.com/kajtuszd/car-service-predictor">GitHub</a></strong>.</p>
+<h2 id="description">Description</h2>
+<p>Car Service Predictor is a maintenance system designed to forecast car servicing needs. The application leverages historical data to predict potential issues and service requirements, helping car owners and service centers stay ahead of maintenance needs.</p>
+<h2 id="features">Features</h2>
+<ul>
+<li><strong>Predictive Maintenance</strong>: Forecast for a car servicing based on historical data.</li>
+<li><strong>User Interface</strong>: Simple and intuitive interface for interacting with the prediction system.</li>
+<li><strong>Workshop Setup</strong>: Allows service providers to set up and manage their workshops.</li>
+<li><strong>Appointment Scheduling</strong>: Car owners can easily book service appointments with available workshops.</li>
+<li><strong>User-Friendly Interface</strong>: Intuitive and simple interface for both workshop managers and car owners.</li>
+</ul>
+]]></description>
+      
+        <media:thumbnail url="https://kajtuszd.github.io/img/csp.png" />
+      
+    </item>
+    
+    
+  </channel>
+</rss>
