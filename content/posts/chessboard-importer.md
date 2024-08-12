@@ -1,10 +1,15 @@
 +++
-title = 'Chessboard Importer'
+title = 'Chessboard Importer ♟️'
 date = 2024-01-14T07:07:07+01:00
 draft = false
 description = 'Take a photo of the chessboard while playing and analize the game on your smartphone.'
-tags = ['AI', 'python', 'docker', 'kotlin']
+tags = ['AI', 'Python', 'Docker', 'Kotlin']
+image = '/img/chessboard-importer.png'
 +++
+
+# 🚀 Repository
+
+🔗 **Check out the source code on [GitHub](https://github.com/kajtuszd/chessboard-importer)**.
 
 # ♟︎ ChessBoard Importer Backend ♟︎
 
@@ -13,7 +18,7 @@ Backend was written in FastAPI framework used to recognize images taken with a m
 ---
 ## Short Demo
 
-![Short Demo](/demo.gif)
+![Short Demo](/img/demo.gif)
 
 ## Application Demo - Youtube 
 [![Application Demo](https://i.imgur.com/Le2E452.png)](https://www.youtube.com/watch?v=HXiuUF98saY)

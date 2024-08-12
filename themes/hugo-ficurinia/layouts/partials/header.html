@@ -30,17 +30,30 @@
             {{- partial "searchbar.html" . -}}
         {{ end }}
     </div>
-    <div id="links">
-        {{ if .Site.Params.showRss | default false }}
-            {{- partial "iconlink" (dict "Identifier" "rss" "Name" "RSS" "URL" "/index.xml") -}}
-        {{ end }}
-        {{ range .Site.Params.links }}
-            {{- partial "nerdlink" . -}}
-        {{ end }}
-        {{ range .Site.Menus.icons }}
-            {{- partial "iconlink" . -}}
-        {{ end }}
-    </div>
+    {{ if .IsHome }}
+        <div>
+            </br>
+            Hi, </br> </br>
+            my name is Kajetan. I'm a programmer who loves diving into new tech and trying out different ideas.
+            </br>
+            </br>
+            I’m always up for learning something new and enjoy experimenting with fresh challenges.
+            </br>
+            </br>
+        </div>
+        <div id="links">
+            {{ if .Site.Params.showRss | default false }}
+                {{- partial "iconlink" (dict "Identifier" "rss" "Name" "RSS" "URL" "/index.xml") -}}
+            {{ end }}
+            {{ range .Site.Params.links }}
+                {{- partial "nerdlink" . -}}
+            {{ end }}
+            {{ range .Site.Menus.icons }}
+                {{- partial "iconlink" . -}}
+            {{ end }}
+        </div>
+    {{ end }}
+
     {{ if and
         (.Site.Params.enableSidebarLayout | default false)
         (or

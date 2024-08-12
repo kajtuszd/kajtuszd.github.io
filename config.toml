@@ -21,5 +21,7 @@ theme = 'hugo-ficurinia'
         weight = 30
 
 [params]
+
     buttonTags = true
     imageInArticlePreview = true  # show images in article preview; default false
+
